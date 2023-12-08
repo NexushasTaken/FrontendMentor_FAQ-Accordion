@@ -18,4 +18,4 @@ Users should be able to:
 
 ## Author
 
-- Github - [@yourusername](https://github.com/NexushasTaken)
+- Github - [@NexushasTaken](https://github.com/NexushasTaken)
